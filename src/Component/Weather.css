@@ -1,0 +1,67 @@
+@media screen and (min-width:320px){
+
+
+
+}
+
+@media screen and (min-width:768px){
+
+
+    
+}
+
+@media screen and (min-width:1024px){
+
+          .container-weather {
+                
+                background-color:aqua;
+                border-radius: 10px;
+                width: 20rem;
+                margin: auto;
+                padding-left: 2rem;
+         }
+
+         .container-weather1 {
+                
+                text-align: center;
+                margin-top: 6rem;
+                gap: 1rem;
+              
+         }
+         .container-weather1 img {
+                  
+                 width: 150px;
+                 height: 150px;
+                 border-radius: 15px;
+         }
+         .container-weather1 input {
+                  
+               padding: 10px;
+               width: 15rem;
+               border-radius: 10px;
+         }
+         .container-weather1 button {
+                
+                 padding: 10px;
+                 background-color: white;
+                 color: black;
+                 font-weight: 800;
+                 border-radius: 10px;
+         }
+         .container-weather2 h1 {
+                 
+                  border: 1px solid black;
+                  width:20rem;
+                  background-color: violet;
+                  color: white;
+                  margin-left: -1rem;
+         }
+         .container-weather2 h2 {
+                 
+            border: 1px solid black;
+            width:10rem;
+            background-color: violet;
+            color: white;
+            margin: auto;
+   }
+}
